@@ -22,7 +22,7 @@ optional arguments:
 2. Scipy
 3. Tensorflow
 
-##Command
+## Command
 
 ```
 python3 train.py --cnt 'images/content/2.jpg' --stl 'images/styles/woman-with-hat-matisse.jpg' --size 300 400 --model vgg16 --niters 200
