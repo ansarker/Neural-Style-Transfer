@@ -22,12 +22,17 @@ optional arguments:
 2. Scipy
 3. Tensorflow
 
+##Command
+
+```
+python3 train.py --cnt 'images/content/2.jpg' --stl 'images/styles/woman-with-hat-matisse.jpg' --size 300 400 --model vgg16 --niters 200
+```
 
 ## Content Image
-<img src="./images/content/gyeongbokgung.jpg" style="width:320px;"/>
+<img src="./images/content/2.jpg" style="width:320px;"/>
 
 ## Style Image
-<img src="./images/styles/shipwreck.jpg" style="width:320px"/>
+<img src="./images/styles/woman-with-hat-matisse.jpg" style="width:320px"/>
 
 ## Output Image
 <img src="./output/generated_img.jpg" style="width:320px"/>
