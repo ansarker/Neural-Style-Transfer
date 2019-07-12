@@ -35,4 +35,4 @@ python3 train.py --cnt 'images/content/2.jpg' --stl 'images/styles/woman-with-ha
 <img src="./images/styles/woman-with-hat-matisse.jpg" style="width:320px"/>
 
 ## Output Image
-<img src="./output/generated_img.jpg" style="width:320px"/>
+<img src="./res/generated_img.jpg" style="width:320px"/>
